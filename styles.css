@@ -1,0 +1,41 @@
+html{font-size:10px}
+
+#title{font-size:6em}
+
+body{min-width:650px;
+font-family:Helvetica;
+margin:0;
+font-size:2em;
+text-align:center;}
+
+li{list-style-type:none;
+margin:20px}
+
+ul{max-width:550px;
+text-align:left;
+margin:0 auto 50px auto;}
+
+#headline {
+margin:50px 0;
+text-align:center;}
+
+#quote{margin:50px 0;}
+
+#img-caption{font-size:0.9em;
+margin-top:10px}
+
+#main{margin:30px 20px;
+padding:15px;
+border-radius:5px;
+background:#eee;
+box-shadow:0 0 10px 5px #eee}
+
+#img-div{padding:5px;
+margin:0 auto;}
+
+#image{min-width:300px;
+max-width:100%;
+box-shadow:0 0 10px 5px rgb(58, 56, 84);
+display:block;
+margin:0 auto;
+}
